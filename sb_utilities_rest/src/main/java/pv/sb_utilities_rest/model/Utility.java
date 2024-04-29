@@ -21,7 +21,7 @@ public class Utility {
 	public int getId() {
 		return id;
 	}
-	public void setId(int id) {
+	public void setId(int utiltityId) {
 		this.id = id;
 	}
 	public String getName() {
